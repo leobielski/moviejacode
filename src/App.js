@@ -1,11 +1,8 @@
 import React from 'react';
+import Main from './pages/Main/index';
 
 function App() {
-  return (
-    <div className="App">
-      <h1>Movie Now</h1>
-    </div>
-  );
+  return <Main />;
 }
 
 export default App;
