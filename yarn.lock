@@ -8425,7 +8425,12 @@
     "node-emoji" "^1.4.1"
     "supports-hyperlinks" "^1.0.1"
 
-"marked@^0.4.0 || ^0.5.0 || ^0.6.0 || ^0.7.0", "marked@^4.0.10":
+"marked@^0.4.0 || ^0.5.0 || ^0.6.0 || ^0.7.0":
+  "integrity" "sha512-c+yYdCZJQrsRjTPhUx7VKkApw9bwDkNbHUKo1ovgcfDjb2kc8rLuRbIFyXL5WOEUwzSSKo3IXpph2K6DqB/KZg=="
+  "resolved" "https://registry.npmjs.org/marked/-/marked-0.7.0.tgz"
+  "version" "0.7.0"
+
+"marked@^4.0.10":
   "integrity" "sha512-esX5lPdTfG4p8LDkv+obbRCyOKzB+820ZZyMOXJZygZBHrH9b3xXR64X4kT3sPe9Nx8qQXbmcz6kFSMt4Nfk6Q=="
   "resolved" "https://registry.npmjs.org/marked/-/marked-4.0.15.tgz"
   "version" "4.0.15"
@@ -11896,6 +11901,11 @@
   "version" "3.1.5"
   dependencies:
     "is-typedarray" "^1.0.0"
+
+"typescript@^3.2.1 || ^4", "typescript@>= 2.7", "typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta":
+  "integrity" "sha512-9ia/jWHIEbo49HfjrLGfKbZSuWo9iTMwXO+Ca3pRsSpbsMbc7/IU8NKdCZVRRBafVPGnoJeFL76ZOAA84I9fEg=="
+  "resolved" "https://registry.npmjs.org/typescript/-/typescript-4.6.4.tgz"
+  "version" "4.6.4"
 
 "unbox-primitive@^1.0.1":
   "integrity" "sha512-61pPlCD9h51VoreyJ0BReideM3MDKMKnh6+V9L08331ipq6Q8OFXZYiqP6n/tbHx4s5I9uRhcye6BrbkizkBDw=="
