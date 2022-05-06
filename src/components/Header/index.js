@@ -1,5 +1,5 @@
 import React from 'react';
-import { Navbar, Nav, Button, Container } from 'react-bootstrap';
+import { Button, Container, Nav, Navbar } from 'react-bootstrap';
 import { StyledNav } from './styles';
 
 export default function Header() {
